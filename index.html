@@ -1,0 +1,42 @@
+<!-- 
+    Awadesh Nautiyal
+-->
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Linking an external stylesheet to apply styles to the page -->
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- Heading to indicate the purpose of this section -->
+    <h1>Fitness Progress Keeper</h1>
+
+    <!-- A counter element to display the count -->
+    <h2 id="count-el">0</h2>
+
+    <!-- Including an external JavaScript file for functionality -->
+    <script src="app.js"></script>
+
+    <!-- Button to increment the count -->
+    <button id="increment-btn" onclick="increment()">Increment</button>
+
+    <!-- Button to save data -->
+    <button onclick="save()" id="save-btn">Save</button>
+
+    <!-- Button to show the total -->
+    <button onclick="showTotal()" id="total-btn">ShowTotal</button>
+
+    <!-- Display the previous entries -->
+    <p id="save-el">Challenges Accomplished: </p>
+
+    <!-- Display the total count of people -->
+    <p id="total-el">Total Challenges Completed: </p>
+
+    <!-- Button to reset and start from scratch -->
+    <button onclick="letStartFromScratch()" id="End-btn">Let's Start From Scratch</button>
+</body>
+
+</html>
