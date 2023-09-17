@@ -1,6 +1,6 @@
 # Fitness Progress Keeper
 
-This website is Live at :- https://incandescent-croissant-5d868e.netlify.app/
+This website is Live at :- 
 
 The Fitness Progress Keeper is a versatile and motivating fitness tracking application. It empowers users to monitor their fitness journey, record completed workouts, and celebrate their accomplishments. Whether you're conquering daily challenges, achieving workout milestones, or striving for a healthier lifestyle, this app is your dedicated fitness companion.
 
