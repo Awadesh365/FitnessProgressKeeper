@@ -1,6 +1,6 @@
 # Fitness Progress Keeper
 
-This website is Live at :- 
+This website is Live at :- https://legendary-conkies-5a0531.netlify.app/ and https://fitness-progress-keeper-wp96.vercel.app/
 
 The Fitness Progress Keeper is a versatile and motivating fitness tracking application. It empowers users to monitor their fitness journey, record completed workouts, and celebrate their accomplishments. Whether you're conquering daily challenges, achieving workout milestones, or striving for a healthier lifestyle, this app is your dedicated fitness companion.
 
