@@ -2,7 +2,7 @@
     Awadesh Nautiyal
 */
 
-//-----------PeopleCounter Logic-------------
+//-----------Logic-------------
 
 // Variables to store references to HTML elements
 let countEl, saveEl, totalEl;
