@@ -1,4 +1,4 @@
-# Fitness Progress Keeper
+# Fitness Progress Keeper : JavaScript
 
 This website is Live at :- https://legendary-conkies-5a0531.netlify.app/ and https://fitness-progress-keeper-wp96.vercel.app/
 
